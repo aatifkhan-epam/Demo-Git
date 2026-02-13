@@ -13,4 +13,4 @@ git push
 2. we need to have github account
 3. github account setup in intettij
 
-changed done for feature 01 - done by Dev01
+changed done for feature 01 - done by Dev01 and ME
